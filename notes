@@ -1,0 +1,5 @@
+dotnet add package microsoft.entityframeworkcore.sqlite
+dotnet add package microsoft.entityframeworkcore.design
+dotnet add package grpc.tools
+dotnet add package microsoft.aspnetcore.grpc.jsontranscoding
+dotnet add package Automapper.Extensions.Microsoft.DependencyInjection
